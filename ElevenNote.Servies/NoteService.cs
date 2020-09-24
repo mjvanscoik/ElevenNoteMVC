@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace ElevenNote.Servies
 {
-    class NoteService
+    public class NoteService
     {
         private readonly Guid _userId;
 
